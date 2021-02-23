@@ -1,29 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T19:19:38.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="82gbjuNhFar7JoSnqd_I" version="14.4.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-23T23:35:31.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="d7ZXJsoDV2ygI21K5KbT" version="14.4.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="897" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-0" value="Rodrigo Duran.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-0" value="Rodrigo Duran.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-1" value="Diagramas de Flujo 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="90" width="390" height="60" as="geometry" />
+        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-1" value="Quiz" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-3" value="&#xa;&#xa;&lt;p style=&quot;display: block; padding: 0px; color: rgb(45, 59, 69); font-family: latoweb, &amp;quot;lato extended&amp;quot;, lato, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;1. De los siguientes DF determinar (i) cuáles son las variables de entrada, salida y auxiliar si aplica; (ii) indicar qué problema resuelve; (iii) realizar la prueba de escritorio con 3 entradas diferentes.&lt;/p&gt;&lt;p style=&quot;display: block; padding: 0px; color: rgb(45, 59, 69); font-family: latoweb, &amp;quot;lato extended&amp;quot;, lato, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;DF-1&lt;/p&gt;&lt;p style=&quot;display: block; padding: 0px; color: rgb(45, 59, 69); font-family: latoweb, &amp;quot;lato extended&amp;quot;, lato, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); text-align: center;&quot;&gt;&lt;img src=&quot;https://ucb.instructure.com/courses/1259/files/141151/preview&quot; alt=&quot;df1.JPG&quot; style=&quot;max-width: 480px ; height: auto ; vertical-align: middle ; border: 0px&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="160" width="520" height="520" as="geometry" />
+        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-5" value="DESARROLLO:" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-5" value="DESARROLLO:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-6" value="1. Identificar las variables&lt;br&gt;&lt;br&gt;&amp;nbsp;- Variables de entrada:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; N&amp;nbsp; Numero&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;- variables de Salida:&amp;nbsp; &amp;nbsp; &lt;br&gt;positivo-par&lt;br&gt;positivo_impar&lt;br&gt;negativo_par&lt;br&gt;negativo_impar&lt;br&gt;_cero&lt;br&gt;&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="140" width="590" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-6" value="1. Identificar las variables&lt;br&gt;&lt;br&gt;&amp;nbsp;- Variables de entrada:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; N&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;- variables de Salida:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;N_Positivo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="800" width="590" height="100" as="geometry" />
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-0" target="E7WSldvCVFOGoXgzBVfb-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-8" value="2. Indicar que problema resuelve&lt;br&gt;&amp;nbsp;-Determinar si un Numero(N) es mayor, menor o igual a cero, si es diferente a cero determinar si el numero es positivo .&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="940" width="600" height="80" as="geometry" />
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-0" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9TRLGIKzOXJ6i6BAbfcn-9" value="3. Prueba de escritorio:&lt;br&gt;N&amp;gt;0&amp;nbsp; positivo:&amp;nbsp; &amp;nbsp;3&amp;gt;0,&amp;nbsp; &amp;nbsp;56&amp;gt;0,&amp;nbsp; &amp;nbsp;10&amp;gt;0&lt;br&gt;&lt;br&gt;(verificación con las otras variables de salida)&lt;br&gt;- negativo:&amp;nbsp; -6&amp;lt;0,&amp;nbsp; &amp;nbsp;-1&amp;lt;0,&amp;nbsp; &amp;nbsp;-7&amp;lt;0&lt;br&gt;- Igual a 0:&amp;nbsp; &amp;nbsp; &amp;nbsp;0=0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="1060" width="600" height="100" as="geometry" />
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-1" target="E7WSldvCVFOGoXgzBVfb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-1" value="ingresar el Numero" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-3" target="E7WSldvCVFOGoXgzBVfb-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="682.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-3" value="leer(N)" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-27" target="E7WSldvCVFOGoXgzBVfb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-27" target="E7WSldvCVFOGoXgzBVfb-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-27" value="N=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="590" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-28" target="E7WSldvCVFOGoXgzBVfb-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="700" />
+              <mxPoint x="700" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633" y="700" />
+              <mxPoint x="410" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-28" value="&lt;span&gt;(N= positivo_par) or (N= positivo_impar)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="580" width="225" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-33" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-34" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="620" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-35" target="E7WSldvCVFOGoXgzBVfb-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1060" />
+              <mxPoint x="440" y="1060" />
+              <mxPoint x="440" y="1097" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-35" value="&quot;el numero es cero&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-36" target="E7WSldvCVFOGoXgzBVfb-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-36" target="E7WSldvCVFOGoXgzBVfb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-36" value="(N= positivo_par) or (N= positivo_impar)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="740" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-39" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-41" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="384" y="820" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-42" target="E7WSldvCVFOGoXgzBVfb-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-42" target="E7WSldvCVFOGoXgzBVfb-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-42" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;(N= negativo_par) or (N= negativo_impar)&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="301" y="730" width="239" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.342;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-43" target="E7WSldvCVFOGoXgzBVfb-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1044" />
+              <mxPoint x="680" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-43" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;el numero es&quot;&lt;/span&gt;+ positivo_impar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-44" target="E7WSldvCVFOGoXgzBVfb-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-44" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;el numero es&quot;&lt;/span&gt;+ positivo_par" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="960" width="112.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-45" target="E7WSldvCVFOGoXgzBVfb-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-45" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;el numero es&quot;&lt;/span&gt;+ negativo_impar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7WSldvCVFOGoXgzBVfb-46" target="E7WSldvCVFOGoXgzBVfb-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1040" />
+              <mxPoint x="410" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-46" value="&quot;el numero es&quot;+ negativo_par" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="960" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-47" value="&lt;span&gt;positivo_impar= N&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-48" value="positivo_par= N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="552.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-49" value="negativo_impar= N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-50" value="negativo_par= N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-58" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="680" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-60" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1060" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7WSldvCVFOGoXgzBVfb-61" value="prueba de escritotio:&lt;br&gt;N= 45, -67, 88, -42&lt;br&gt;45: positivo impar, -67. negativo impar&lt;br&gt;88: positivo par, -42: negativo par" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1070" width="390" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
