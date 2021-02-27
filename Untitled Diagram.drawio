@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T23:56:42.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="oefA7mztY4x4d-Ft_q1e" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-27T00:00:07.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="L-EkKtSbH6h3JVlUe-rg" version="14.4.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="620" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -381,6 +381,31 @@
       <root>
         <mxCell id="6ie4cLx8fuQaLJ6cxRVk-0" />
         <mxCell id="6ie4cLx8fuQaLJ6cxRVk-1" parent="6ie4cLx8fuQaLJ6cxRVk-0" />
+        <mxCell id="3IJHSHgfzc1TX8v_rtPC-0" value="&#xa;&#xa;&lt;ol start=&quot;2&quot; style=&quot;padding: 0px; margin: 0px 0px 6px 25px; color: rgb(45, 59, 69); font-family: latoweb, &amp;quot;lato extended&amp;quot;, lato, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Desarrollar un D.F que determine si un número ingresado por teclado es perfecto o no. En caso de serlo o no imprima el mensaje respectivo. Un número perfecto es el que sumados sus divisores reproduce el mismo número. El número 6 es un número perfecto porque la suma de sus divisores (1+2+3) es igual a 6.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6ie4cLx8fuQaLJ6cxRVk-1">
+          <mxGeometry x="50" y="30" width="700" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hCNwuzyvDEfFPhDILKi-" name="Page-4">
+    <mxGraphModel dx="868" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="yFuwE395FUKL68kOvgMi-0" />
+        <mxCell id="yFuwE395FUKL68kOvgMi-1" parent="yFuwE395FUKL68kOvgMi-0" />
+        <mxCell id="yFuwE395FUKL68kOvgMi-2" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(45, 59, 69); font-family: latoweb, &amp;quot;lato extended&amp;quot;, lato, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Desarrollar un D.F que lea 10 números y sume los números impares ingresados.&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yFuwE395FUKL68kOvgMi-1">
+          <mxGeometry x="40" y="30" width="730" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P3F2o0ofUox5_ytGBYxr" name="Page-5">
+    <mxGraphModel dx="868" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eLttjWBLQN2mfsHi0h2j-0" />
+        <mxCell id="eLttjWBLQN2mfsHi0h2j-1" parent="eLttjWBLQN2mfsHi0h2j-0" />
+        <mxCell id="eLttjWBLQN2mfsHi0h2j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eLttjWBLQN2mfsHi0h2j-1">
+          <mxGeometry x="40" y="50" width="760" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
